@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "restaurant": {
+  "Restaurant": {
     "id": "string",
     "name": "string",
     "address": "string",
